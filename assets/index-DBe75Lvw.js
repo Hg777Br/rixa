@@ -1,0 +1,1 @@
+import{j as e}from"./index-NXxYTj6m.js";const n=r=>e("h1",{children:e("h1",{children:" Help Page"},void 0,!1,{fileName:"/home/user/xtf/src/pages/setup/index.tsx",lineNumber:5,columnNumber:9},void 0)},void 0,!1,{fileName:"/home/user/xtf/src/pages/setup/index.tsx",lineNumber:4,columnNumber:12},void 0);export{n as default};
