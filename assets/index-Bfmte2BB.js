@@ -1,0 +1,1 @@
+import{j as e}from"./index-BVcHEhAA.js";const i=r=>e("div",{children:"Blank Page"},void 0,!1,{fileName:"/home/user/xtf/src/pages/404/index.tsx",lineNumber:4,columnNumber:12},void 0);export{i as default};
